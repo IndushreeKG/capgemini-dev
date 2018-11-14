@@ -3,8 +3,8 @@ Class A
 void welcome()
 {
 }
-int  add( int x,int y)
+void add( int x,int y)
 {  
-return x+y;
+int r= x+y;
 }
 }
