@@ -5,6 +5,7 @@ void welcome()
 }
 void add( int x,int y)
 {  
-int r= x+y;
+int r;
+r= x+y;
 }
 }
